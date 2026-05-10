@@ -1,7 +1,4 @@
-# SEASON 2 — FINAL ARC
-# START OF THE END
-# PART 2 OF 2
-# END OF SEASON 2
+# SEASON 2, FINAL ARC, START OF THE END, PART 2 OF 2, END OF SEASON 2
 
 ##### Erebos zerfällt.
 
@@ -232,7 +229,7 @@ Seine Crew.
 
 Purpur (schwach): „…Ich hasse euch.“
 
-Mitch: „AWW ER LIEBT UNS 😭“
+Mitch: „AWW ER LIEBT UNS“
 
 Purpur: „Nein.“
 

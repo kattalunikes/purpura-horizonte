@@ -1,6 +1,4 @@
-⚫ SEASON 2 — FINAL ARC
-START OF THE END
-PART 1 OF 2
+# SEASON 2, FINAL ARC, START OF THE END, PART 1 OF 2
 
 Die Tür öffnet sich vollständig.
 
@@ -152,7 +150,7 @@ Natürlich.
 
 Mitch:
 
-„ICH SCHLAG EINFACH ALLES 😭“
+„ICH SCHLAG EINFACH ALLES“
 
 Freddy:
 

@@ -1,5 +1,4 @@
-# SEASON 2 — FINAL ARC BEGINS
-# „DAS MEER VOR DEM ENDE.“
+# SEASON 2, FINAL ARC BEGINS - „DAS MEER VOR DEM ENDE.“
 
 Die Grandline ist still.
 Zu still.
@@ -171,13 +170,13 @@ Purpur: „Aber wir fahren trotzdem.“
 
 LANGSAM beginnt jeder zu grinsen.
 
-Mitch: „THAT’S THE SPIRIT 😭“
+Mitch: „THAT’S THE SPIRIT“
 
 Fear: „Wir sterben.“
 
 Freddy: „Wahrscheinlich.“
 
-Amii: „Aber stylish 😭“
+Amii: „Aber stylish“
 
 Vio: „Bitte nicht.“
 
