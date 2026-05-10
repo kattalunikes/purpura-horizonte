@@ -287,19 +287,11 @@ Purpur:
 
 „Falsche Antwort.“
 
-LETZTES PANEL
-Die Insel zerbricht langsam
-Die Crew kämpft ums Überleben
-Fear & Amii gemeinsam gegen die Illusionen
-Mitch lacht trotz allem mitten im Chaos
-Luxi blutet erneut
-Das gigantische Auge starrt direkt auf Purpur
-
-Und tief unter Erebos…
-
-beginnt sich noch etwas anderes zu bewegen.
-
-Etwas Größeres.
-
-TO BE CONTINUED
-START OF THE END — PART 2 COMING SOON
+### LETZTES PANEL
+* Die Insel zerbricht langsam
+* Die Crew kämpft ums Überleben
+* Fear & Amii gemeinsam gegen die Illusionen
+* Mitch lacht trotz allem mitten im Chaos
+* Luxi blutet erneut
+* Das gigantische Auge starrt direkt auf Purpur
+* Und tief unter Erebos... beginnt sich noch etwas anderes zu bewegen... Etwas Größeres...
