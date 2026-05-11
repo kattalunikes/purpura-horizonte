@@ -1,5 +1,5 @@
 pandoc -o moby-purpura.pdf --toc --toc-depth=2 \
-  Season\ 01/01-0*md \
+  Season\ 01/*md \
   Season\ 02/*md \
   Season\ 03/*md \
   --metadata title="Die Legenden der Moby Purpura" \
