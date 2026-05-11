@@ -1,4 +1,4 @@
-# SEASON 2, FINAL ARC BEGINS - „DAS MEER VOR DEM ENDE.“
+# S2.F2 - „DAS MEER VOR DEM ENDE.“
 
 Die Grandline ist still.
 Zu still.
@@ -66,7 +66,7 @@ Amii: „Dann verlieren wir zusammen.“
 
 Fear sagt nichts. Aber er lässt ihre Hand nicht los.
 
-##### Meanwhile: Mitch & Luna
+### Meanwhile: Mitch & Luna
 
 Mitch hängt kopfüber vom Mast.
 
@@ -102,7 +102,7 @@ Freddy lächelt minimal.
 
 Freddy: „Dann sind wir wenigstens gemeinsam dumm.“
 
-##### Im Krankenraum
+### Im Krankenraum
 Luxi schläft noch immer.
 Verletzt.
 Schwach.

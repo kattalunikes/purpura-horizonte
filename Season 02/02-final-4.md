@@ -1,6 +1,6 @@
-# SEASON 2, FINAL ARC, START OF THE END, PART 2 OF 2, END OF SEASON 2
+# S2.F4 - START OF THE END, PART 2 OF 2, END OF SEASON 2
 
-##### Erebos zerfällt.
+### Erebos zerfällt.
 
 Das Meer schlägt gegen die Insel.
 Der Himmel ist schwarz.
@@ -24,7 +24,7 @@ Das Wesen: „Du erinnerst dich.“
 
 Purpurs Augen weiten sich leicht.
 
-##### FLASHBACK
+### FLASHBACK
 > Ein jüngerer Purpur.  
 > Allein.  
 > Zerstörte Gebäude.  
@@ -37,7 +37,7 @@ Purpurs Augen weiten sich leicht.
 > * „Er ist ein Monster…“
 > * „Der verfluchte König…“
 
-##### Zurück in die Gegenwart.
+### Zurück in die Gegenwart.
 
 Purpur senkt leicht den Kopf.
 
@@ -89,7 +89,7 @@ Das Wesen lacht. Zum ersten Mal richtig.
 
 Das Wesen: „Endlich.“
 
-##### Purpur wird übernommen
+### Purpur wird übernommen
 
 Schwarze Energie explodiert über die Insel.
 Die Schatten verschwinden nicht mehr vor ihm.
@@ -121,7 +121,7 @@ Das Wesen: „Sie werden dich immer fürchten. So wie früher.“
 Purpur schweigt.
 Denn ein Teil von ihm glaubt es.
 
-##### Die Crew rettet Purpur
+### Die Crew rettet Purpur
 
 Fear geht langsam nach vorne.
 Trotz Verletzungen.
@@ -164,7 +164,7 @@ Das Wesen: „SCHWEIGT!“
 Doch die Crew geht weiter auf Purpur zu.
 Ohne Angst.
 
-##### Der entscheidende Moment
+### Der entscheidende Moment
 
 Purpur hält sich den Kopf.
 Die Schatten verlieren langsam Kontrolle.
@@ -192,7 +192,7 @@ Das Wesen: „NEIN—“
 
 Purpur: „Halt. Meine Crew. Da raus.“
 
-##### FINALER SCHLAG
+### FINALER SCHLAG
 
 Die gesamte Crew greift gleichzeitig an.
 Fear.
@@ -236,7 +236,7 @@ Purpur: „Nein.“
 Alle lachen trotzdem.
 Selbst Fear leicht.
 
-##### EPILOG
+### EPILOG
 
 Einige Tage später.
 Die Moby Purpura segelt wieder.
@@ -259,7 +259,7 @@ Zu seiner Familie.
 
 Purpur: „Jetzt... finden wir heraus, was als nächstes kommt.“
 
-##### LETZTES PANEL
+### LETZTES PANEL
 
 Die Moby Purpura fährt in den Sonnenuntergang.
 

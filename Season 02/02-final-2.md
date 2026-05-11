@@ -1,12 +1,11 @@
-# SEASON 2 — FINAL ARC
-# „Die Insel unter dem Meer“
+# S2.F2 - „Die Insel unter dem Meer“
 
 Die Moby Purpura durchbricht den Nebel.
 Zum ersten Mal seit Tagen sieht die Crew wieder festen Boden.
 Aber niemand wirkt erleichtert.
 Denn die Insel vor ihnen sieht nicht aus wie ein Ort, den Menschen betreten sollten.
 
-##### Die Insel
+### Die Insel
 
 Schwarze Klippen ragen aus dem Meer.
 Überall verlaufen riesige weiße Linien durch den Boden — wie Adern.
@@ -31,7 +30,7 @@ Und Dante stellt sofort das Fell auf.
 Die Tiere spüren es zuerst.
 Hier stimmt etwas nicht.
 
-##### Luxi wacht auf
+### Luxi wacht auf
 
 Im Krankenraum bewegt sich plötzlich etwas.
 Luxi öffnet langsam die Augen.
@@ -78,7 +77,7 @@ Und zum ersten Mal wirkt Luxi wirklich nervös.
 
 Luxi: „Damals war die Tür geschlossen.“
 
-##### Der wahre Name der Insel
+### Der wahre Name der Insel
 
 Purpur schaut ihn an.
 
@@ -100,7 +99,7 @@ Alle schauen ihn an.
 
 Luxi (leise): „Sondern um etwas drinnen zu halten.“
 
-##### Die Insel reagiert
+### Die Insel reagiert
 
 Plötzlich beginnt der Boden zu beben.
 Nicht leicht.
@@ -118,7 +117,7 @@ Stille.
 
 Luxi: „Die Insel lebt.“
 
-##### Aufbruch
+### Aufbruch
 
 Purpur zieht langsam seinen Mantel zurecht.
 

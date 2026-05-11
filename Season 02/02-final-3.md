@@ -1,4 +1,4 @@
-# SEASON 2, FINAL ARC, START OF THE END, PART 1 OF 2
+# S2.F3 - START OF THE END, PART 1 OF 2
 
 Die Tür öffnet sich vollständig.
 
