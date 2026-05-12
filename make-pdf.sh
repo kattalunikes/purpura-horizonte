@@ -1,9 +1,12 @@
-pandoc -o moby-purpura.pdf --toc --toc-depth=2 \
+for TYPE in pdf epub html
+do
+pandoc -o moby-purpura.$TYPE --toc --toc-depth=2 \
   Season\ 01/*md \
   Season\ 02/*md \
   Season\ 03/*md \
-  --metadata title="Die Legenden der Moby Purpura" \
-  --metadata author="Die Crew aus Tentakelhausen" \
-  --metadata author="(Fear, Devil, Amii, Luna, Luxi, Mitch, Vio, Purpur)" \
-  --metadata subtitle="Es geschah an einen Abend im Discord..." \
-
+  --metadata title="Purpur Horizone" \
+  --metadata subtitle="Die Legenden der Moby Purpura" \
+  --metadata author="von Fear und der Crew aus Tentakelhausen" \
+  --metadata author="(Amii, Devil, Luna, Luxi, Mitch, Purpur, Vio)" \
+  
+done
