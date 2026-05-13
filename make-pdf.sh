@@ -4,7 +4,7 @@ pandoc -o moby-purpura.$TYPE --toc --toc-depth=2 \
   Season\ 01/*md \
   Season\ 02/*md \
   Season\ 03/*md \
-  --metadata title="Purpur Horizone" \
+  --metadata title="Purpura!" \
   --metadata subtitle="Die Legenden der Moby Purpura" \
   --metadata author="von Fear und der Crew aus Tentakelhausen" \
   --metadata author="(Amii, Devil, Luna, Luxi, Mitch, Purpur, Vio)" \
