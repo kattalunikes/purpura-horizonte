@@ -2,9 +2,9 @@ for TYPE in pdf epub html
 do
 pandoc -o moby-purpura.$TYPE --toc --toc-depth=2 \
   title.md \
-  Season\ 01/*md \
-  Season\ 02/*md \
-  Season\ 03/*md \
-  Season\ 04/*md \
+  Season_01/*md \
+  Season_02/*md \
+  Season_03/*md \
+  Season_04/*md \
  
 done
