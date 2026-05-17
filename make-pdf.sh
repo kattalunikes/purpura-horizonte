@@ -7,5 +7,6 @@ pandoc -o moby-purpura.$TYPE --toc --toc-depth=2 \
   Season_03/*md \
   Season_04/*md \
   Season_05/*md \
+  Season_06/*md \
  
 done
