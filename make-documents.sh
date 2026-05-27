@@ -8,5 +8,6 @@ pandoc -o purpura.$TYPE --toc --toc-depth=2 \
   Season_04/*md \
   Season_05/*md \
   Season_06/*md \
+  Season_07/*md \
  
 done
